@@ -6,7 +6,7 @@ I gotten the code from the itch.io pc app when i downloaded the html5 version of
 pls support the creators of the game, i didn't make/help make the game in any way!!!
 
 ### download the game: https://github.com/VocalNutria9174/sort-the-court/releases/
-i will update the game almost every time the devs update the game =]
+i will update the game (on occoations if) the devs update the game =]
 
 ### play the live game/demo here: https://tiny.one/sortthecourtgh9174
 
